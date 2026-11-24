@@ -3,8 +3,7 @@
 
 This project uses a 16-run, two-level fractional factorial experiment to study six CMP factors and two measured responses. The process objective is to achieve the required material removal rate while keeping removal uniform across the wafer. For this practice exercise, use **Maximize** for polish rate and **Minimize** for standard deviation. A production process may instead specify a target polish rate.
 
-![CMP process and practice overview](<img width="776" height="412" alt="Screenshot 2026-11-24 at 1 11 06 PM" src="https://github.com/user-attachments/assets/551ced64-e68d-454f-a5ed-bca8e6f1d61f" />)
-
+<img width="756" height="408" alt="Screenshot 2026-11-24 at 1 12 15 PM" src="https://github.com/user-attachments/assets/8fb06d49-d9e1-4116-8b53-37ef00bfac66" />
 
 ![CMP experiment data table](<img width="1266" height="493" alt="Screenshot 2026-11-24 at 1 10 28 PM" src="https://github.com/user-attachments/assets/b88999bb-814c-41eb-88db-f98de2f99c61" />
 zl.png)
