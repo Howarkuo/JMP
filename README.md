@@ -47,7 +47,8 @@ The blue triangles and green bars beside column names indicate continuous and no
 
 ## 3. Least Squares Fit, responses, and Prediction Profiler
 
-![Two response reports and combined Profiler](https://hackmd.io/_uploads/By_pKyl0Ge.png)
+![Two response reports and combined Profiler]
+<img width="690" height="404" alt="image" src="https://github.com/user-attachments/assets/b076f2ce-1d5e-422a-829f-2069e828b100" />
 
 | Section in the JMP window | What it does | Why open it |
 |---|---|---|
@@ -65,7 +66,7 @@ $$
 The vector $\mathbf{x}_i$ contains the six settings. Each response has its own coefficients $\boldsymbol{\beta}_k$ and residuals $\varepsilon_{k,i}$. Ordinary least squares estimates the coefficients by minimizing
 
 $$
-\operatorname{SSE}_k=\sum_{i=1}^{16}\left[y_{k,i}-\widehat{y}_{k,i}\right]^2.
+ \mathrm{SSE}_k=\sum_{i=1}^{16}\left[y_{k,i}-\widehat{y}_{k,i}\right]^2.
 $$
 
 A residual is the measured response minus its fitted value. The models describe the relationship within the tested operating range.
@@ -109,7 +110,9 @@ Thus, an interaction allows the effect of one setting to depend on another setti
 
 ## 5. Fitting method and response-surface options
 
-![JMP model specification and response-surface attribute](https://hackmd.io/_uploads/S1b4G9BAGg.png)
+![JMP model specification and response-surface attribute]
+<img width="1574" height="864" alt="image" src="https://github.com/user-attachments/assets/7eeca45d-b030-4090-9802-e9a995b36592" />
+
 
 | JMP option | Meaning in this project |
 |---|---|
